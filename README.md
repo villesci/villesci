@@ -8,5 +8,5 @@ Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his m
 
 When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
 
-[My dynamic CV](https://github.com/villesci/CV/blob/0837b60899da5cabb78f6ed98e0a5f43a335b43a/villeneuve_CV2.pdf) (coded in R!)
+[My dynamic CV](https://github.com/villesci/CV/blob/main/villeneuve_cv/villeneuve_cv2.pdf) (coded in R!)
 
